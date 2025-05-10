@@ -1,9 +1,5 @@
 # Welcome to Context Vibes! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/contextvibes/cli/main/.github/logo.png" alt="Context Vibes Logo" width="150"/>
-</p>
-
 **Empowering developers with intelligent tools and streamlined workflows.**
 
 Context Vibes is an open-source initiative dedicated to creating tools that enhance the developer experience, particularly by improving the interplay between developers, their projects, and AI assistants. We believe that providing the right context, in the right way, can significantly boost productivity, clarity, and the effectiveness of AI-augmented software development.
