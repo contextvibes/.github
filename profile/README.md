@@ -47,8 +47,11 @@ The templates are the concrete structures you can see and use immediately. They 
 *   Integrate with the ContextVibes CLI for enhanced workflows.
 *   Provide a quick start for various project types (Go, Terraform, Dataform, etc.).
 
-*   **Explore our templates and the guidance for building them in the THEA repo:** [https://github.com/contextvibes/THEA/tree/main/thea/firebase_studio_templates/](https://github.com/contextvibes/THEA/tree/main/thea/firebase_studio_templates/)
+*   **Explore our templates and the guidance for building them in the THEA repo:**
+*   https://github.com/contextvibes/firebase-studio-apps-script
+*   https://github.com/contextvibes/go-cloud-run-api-template
 
+  
 ## Become a Puzzler (Join the Collective Effort)
 
 This initiative thrives on community participation. Whether you want to contribute code to the CLI, refine a playbook in THEA, or propose a new template, your contributions help complete the picture.
