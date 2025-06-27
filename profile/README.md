@@ -18,7 +18,8 @@ We see our initiative as a large, intricate jigsaw puzzle. This analogy guides h
 
 This iterative process ensures our guidance, tools, and templates evolve to meet real-world needs.
 
-![Context Vibes Ecosystem: Continuous Improvement Cycle](docs/assets/images/thea_continuous_improvement_cycle.svg)
+![THEA Continuous Improvement Cycle](
+https://raw.githubusercontent.com/contextvibes/THEA/refs/heads/main/thea/foundations/assets/images/thea-continuous-improvement-cycle.svg)
 
 ## The Main Parts of the Puzzle
 
