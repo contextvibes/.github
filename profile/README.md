@@ -48,8 +48,8 @@ The templates are the concrete structures you can see and use immediately. They 
 *   Provide a quick start for various project types (Go, Terraform, Dataform, etc.).
 
 *   **Explore our templates and the guidance for building them in the THEA repo:**
-*   https://github.com/contextvibes/firebase-studio-apps-script
-*   https://github.com/contextvibes/go-cloud-run-api-template
+*   [https://github.com/contextvibes/firebase-studio-apps-script](https://github.com/contextvibes/firebase-studio-apps-script)
+*   [https://github.com/contextvibes/go-cloud-run-api-template](https://github.com/contextvibes/firebase-studio-go)
 
   
 ## Become a Puzzler (Join the Collective Effort)
